@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MineSweeper">
+</Property><Property Name="Solution File" Value="D:\Vijay\MineSweeper\MineSweeper.sln">
+</Property><Property Name="User Options File" Value="D:\Vijay\MineSweeper\MineSweeper.suo">
+</Property><Property Name="Date" Value="Monday, March 19, 2012">
+</Property><Property Name="Time" Value="14:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MineSweeper.sln" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\MineSweeper.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MineSweeper.suo" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\MineSweeper.suo">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="MineSweeper.vbproj" Description="Project file successfully backed up as D:\Vijay\MineSweeper\Backup\MineSweeper.vbproj">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="MineSweeper.vbproj.user" Description="Project user file successfully backed up as D:\Vijay\MineSweeper\Backup\MineSweeper.vbproj.user">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Box.vb" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Box.vb">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Form1.vb" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Global.vb" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Global.vb">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="mineBoxes.vb" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\mineBoxes.vb">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\Flag.ico" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\Flag.ico">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\Mine.ico" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\Mine.ico">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\MineAppIcon.ico" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\MineAppIcon.ico">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\RedMine.ico" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\RedMine.ico">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\Sad.gif" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\Sad.gif">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\Smile.gif" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\Smile.gif">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\Won.gif" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\Won.gif">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Images\WrongMine.ico" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Images\WrongMine.ico">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="Form1.resx" Description="File successfully backed up as D:\Vijay\MineSweeper\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MineSweeper" Source="MineSweeper.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MineSweeper" Source="MineSweeper.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MineSweeper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MineSweeper.sln" Description="Converted">
+</Event><Event ErrorLevel="3" Project="MineSweeper" Source="Global.vb" Description="Converted">
+</Event></UpgradeLog>
